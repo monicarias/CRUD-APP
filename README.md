@@ -15,7 +15,12 @@ Las aplicaciones CRUD (Create, Read, Update, Delete) han cobrado una relevancia 
 **Tabla de Registros**: Aparece el resgito de los datos, junto a dos acciones editar y eliminar
 
 ## Visualización
-<!-- Aquí puedes añadir detalles sobre cómo se visualiza la información en tu aplicación -->
+Se detallan las consideraciones de diseño y usabilidad de la landing page, incluyendo aspectos como:
+- **Diseño Responsivo**: La CRUD APP se adaptada a diferentes dispositivos móviles facilitando su visualización.
+- **Paleta de Colores**: Se utilizaron conceptos de psicología del color y diseño gráfico para internet a fin de generar una experiencia de usuario inigualable.
+- **Tipografía**: Se incorporaron estilos vanguardista de diseño editorial para generar una mejor experiencia del lectura a los visitantes.
+
+A continuación se presenta en imágen la representación de la Langing Page:
 
 ## Tecnologías 
 <!-- Aquí puedes enumerar y describir las tecnologías utilizadas en tu proyecto -->
