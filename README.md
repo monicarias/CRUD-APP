@@ -25,7 +25,11 @@ A continuación se presenta en imágen la representación de la CRUD APP:
 ![](https://github.com/monicarias/CRUD-APP/blob/main/img1.jpg?raw=true)
 
 ## Tecnologías 
-<!-- Aquí puedes enumerar y describir las tecnologías utilizadas en tu proyecto -->
+Lista de las tecnologías y herramientas utilizadas para el desarrollo de la landing page, tales como:
+- **HTML5**: Estructuración del contenido buscando el estándar que incorpora las últimas tendencias de maquetación.
+- **CSS3**: Estilos y diseño visual aconmpañados de técnicas como flat design y UX/UI
+- **JavaScript**: Interactividad y funcionalidades dinámicas que facilitan la interacción del ususario.
+- **Herramientas de Desarrollo**: Visual Studio Code y Git.
 
 ## Despliegue
 <!-- Aquí puedes añadir instrucciones sobre cómo desplegar tu aplicación -->
