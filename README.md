@@ -20,7 +20,9 @@ Se detallan las consideraciones de diseño y usabilidad de la landing page, incl
 - **Paleta de Colores**: Se utilizaron conceptos de psicología del color y diseño gráfico para internet a fin de generar una experiencia de usuario inigualable.
 - **Tipografía**: Se incorporaron estilos vanguardista de diseño editorial para generar una mejor experiencia del lectura a los visitantes.
 
-A continuación se presenta en imágen la representación de la Langing Page:
+A continuación se presenta en imágen la representación de la CRUD APP:
+
+![](https://github.com/monicarias/CRUD-APP/blob/main/img.jpg?raw=true)
 
 ## Tecnologías 
 <!-- Aquí puedes enumerar y describir las tecnologías utilizadas en tu proyecto -->
