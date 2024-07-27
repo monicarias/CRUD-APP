@@ -22,7 +22,7 @@ Se detallan las consideraciones de diseño y usabilidad de la landing page, incl
 
 A continuación se presenta en imágen la representación de la CRUD APP:
 
-![](https://github.com/monicarias/CRUD-APP/blob/main/img.jpg?raw=true)
+![](https://github.com/monicarias/CRUD-APP/blob/main/img1.jpg?raw=true)
 
 ## Tecnologías 
 <!-- Aquí puedes enumerar y describir las tecnologías utilizadas en tu proyecto -->
