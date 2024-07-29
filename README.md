@@ -32,4 +32,5 @@ Lista de las tecnologías y herramientas utilizadas para el desarrollo de la lan
 - **Herramientas de Desarrollo**: Visual Studio Code y Git.
 
 ## Despliegue
-<!-- Aquí puedes añadir instrucciones sobre cómo desplegar tu aplicación -->
+[](https://ejemplocrudapp.netlify.app)
+
