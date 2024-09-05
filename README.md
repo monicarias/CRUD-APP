@@ -1,3 +1,4 @@
+![Licencia](https://img.shields.io/badge/Licencia%20Colaboradores-azul?style=flat)
 # Índice
 
 1. [Introducción](#introducción)
