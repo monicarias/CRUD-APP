@@ -3,7 +3,7 @@
 1. [Introducción](#introducción)
 2. [Estructura de la CRUD](#estructura-de-la-crud)
 3. [Visualización](#visualización)
-4. [Tecnologías Empleadas](#tecnologías-empleadas)
+4. [Tecnologías](#tecnologías)
 5. [Despliegue](#despliegue)
 
 ## Introducción
