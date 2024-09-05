@@ -45,6 +45,8 @@ Lista de las tecnologías y herramientas utilizadas para el desarrollo de la lan
 
 ## Codificación
 
+### HTML
+
 ```html
 <body>
    <main class="container">
