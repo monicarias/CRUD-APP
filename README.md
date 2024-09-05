@@ -1,8 +1,8 @@
-# Mi Proyecto
+# CRUD APP
 
 ![Licencia MIT](https://img.shields.io/badge/licencia-MIT-green)
 ![Versión](https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue)
-![Colaboradores](https://img.shields.io/badge/colaboradores-5-brightgreen)
+![Colaboradores](https://img.shields.io/badge/colaboradores-2-brightgreen)
 
 ## Descripción
 Este es un ejemplo de cómo agregar badges estáticos a un proyecto en GitHub.
