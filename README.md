@@ -1,8 +1,16 @@
-# CRUD APP
+<p align="center">
+  <img src="https://img.shields.io/badge/CRUD%20APP-Logo-orange" alt="CRUD App Logo" width="100">
+</p>
 
-![Licencia MAC](https://img.shields.io/badge/licencia-MAC-green)
-![Versión](https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue)
-![Colaboradores](https://img.shields.io/badge/colaboradores-2-brightgreen)
+<h1 align="center">CRUD App</h1>
+
+<p align="center">Una aplicación web sencilla para crear, leer, actualizar y eliminar datos, diseñada con un enfoque moderno y fácil de usar.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/licencia-MIT-green" alt="Licencia MIT">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue" alt="Versión">
+  <img src="https://img.shields.io/badge/contribuidores-5-brightgreen" alt="Contribuidores">
+</p>
 
 
 # Índice
