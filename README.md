@@ -177,6 +177,7 @@ body, button, input {
     justify-content: space-around;
 }
 ```
+### JAVASCRIPT
 ```
 //adquirimos los elementos del DOM donde vamos a ingresar los datos de usuario:
 //declaramos constantes que son variables que no cambian en el tiempo//
