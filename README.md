@@ -15,7 +15,8 @@
 2. [Estructura de la CRUD](#estructura-de-la-crud)
 3. [Visualización](#visualización)
 4. [Tecnologías](#tecnologías)
-5. [Despliegue](#despliegue)
+5. [Codificación](#codificación)
+6. [Despliegue](#despliegue)
 
 ## Introducción
 Las aplicaciones CRUD (Create, Read, Update, Delete) han cobrado una relevancia significativa en el desarrollo de software moderno, especialmente en la gestión de datos y usuarios. Una CRUD APP para el registro de usuarios es esencial en múltiples contextos, desde plataformas de comercio electrónico hasta sistemas internos de empresas. Este tipo de aplicación permite a las organizaciones llevar un control detallado de sus usuarios, mejorando la eficiencia en la gestión de la información y proporcionando una base sólida para el análisis y la toma de decisiones. Además, una CRUD APP facilita la administración de permisos y roles, asegurando que solo el personal autorizado tenga acceso a información sensible. En resumen, la implementación de una CRUD APP para el registro de usuarios no solo optimiza los procesos operativos, sino que también contribuye a la seguridad y precisión de los datos en una organización.
@@ -41,6 +42,44 @@ Lista de las tecnologías y herramientas utilizadas para el desarrollo de la lan
 - **CSS3**: Estilos y diseño visual aconmpañados de técnicas como flat design y UX/UI
 - **JavaScript**: Interactividad y funcionalidades dinámicas que facilitan la interacción del ususario.
 - **Herramientas de Desarrollo**: Visual Studio Code y Git.
+
+## Codificación
+
+```html
+<body>
+   <main class="container">
+    <section class="crud">
+        <h1 class="crud_title">Registro de Usuarios</h1>
+
+        <!-- Creamos un formulario para ingresar datos. Etiquetas con id para modificar en Js y Class en CSS -->
+        <form id="formRegister" class="crud_form">
+            <input type="text" placeholder="Nombre" id="nameinput" class="form_input">
+            <input type="email" placeholder="Email" id="emailinput" class="form_input">
+
+        <!-- Este botón tiene una clase general "button" y agregamos modificadores como button--primary -->    
+            <button type="submit" id="submitbutton" class="button button--primary" >Agregar</button>
+        </form>
+
+        <!-- Creamos una tabla para que se visualicen los datos -->
+        <table class="crudtable">
+        <thead>
+            <tr>
+                <th class="table_header">Nombre</th>
+                <th class="table_header">E-mail</th>
+                <th class="table_header">Acciones</th>
+            </tr>
+        </thead>
+
+        <!-- Creamos el cuerpo de la tabla que se agrega o elimina automaticamente -->
+        <tbody id="tablebody" class="table_body">
+        </tbody>
+        </table>
+    </section>
+   </main>
+    
+    <script src="app.js"></script>    
+</body>
+```
 
 ## Despliegue
 [CRUD APP](https://ejemplocrudapp.netlify.app)
