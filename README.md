@@ -1,4 +1,4 @@
-![Licencia](https://img.shields.io/badge/Licencia?style=flat)
+![Licencia ](https://img.shields.io/badge/Licencia-azul?style=flat)
 # Índice
 
 1. [Introducción](#introducción)
