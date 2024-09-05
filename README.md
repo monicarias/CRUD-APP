@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/CRUD%20APP-Logo-orange" alt="CRUD App Logo" width="100">
-</p>
-
 <h1 align="center">CRUD App</h1>
 
 <p align="center">Una aplicación web sencilla para crear, leer, actualizar y eliminar datos, diseñada con un enfoque moderno y fácil de usar.</p>
