@@ -1,6 +1,6 @@
 # CRUD APP
 
-![Licencia MAC](https://img.shields.io/badge/licencia-MIT-green)
+![Licencia MAC](https://img.shields.io/badge/licencia-MAC-green)
 ![Versión](https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue)
 ![Colaboradores](https://img.shields.io/badge/colaboradores-2-brightgreen)
 
